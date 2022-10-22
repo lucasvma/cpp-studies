@@ -1,4 +1,8 @@
-//
-// Created by luketfake on 06/07/2021.
-//
+#include <stdio.h>
 
+int main(void) {
+    int p, q;
+    p = q = 0;
+    printf("p = %d, q = %d", p, q);
+    return 0;
+}
